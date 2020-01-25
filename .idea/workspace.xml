@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2f08893d-2ebb-459e-ac0d-9b7be2b40d1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,11 @@
       <list>
         <option value="c-grattan &lt;56635397+c-grattan@users.noreply.github.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -148,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579981946894</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Docker support to .travis.yml">
+      <created>1579982025322</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579982025322</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,13 +171,14 @@
     <MESSAGE value="Add Travis CI support" />
     <MESSAGE value="Add Travis CI status badge to README.md" />
     <MESSAGE value="Add license and build badges to README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add license and build badges to README.md" />
+    <MESSAGE value="Add Docker support to .travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Docker support to .travis.yml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1579981945878">
+    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1579982024470">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579981945878" />
+    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579982024470" />
     <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1579980452761">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -186,10 +199,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579973826394" />
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579981957423">
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579982257902">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579981957423" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579982257902" />
     <state x="495" y="222" key="git4idea.merge.GitPullDialog" timestamp="1579973318896">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
