@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579981574253</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Travis CI status badge to README.md">
+      <created>1579981719863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579981719863</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,13 +150,14 @@
     <MESSAGE value="Add Dockerfile" />
     <MESSAGE value="Add files missing from initial commit" />
     <MESSAGE value="Add Travis CI support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Travis CI support" />
+    <MESSAGE value="Add Travis CI status badge to README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Travis CI status badge to README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1579981573331">
+    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1579981718607">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579981573331" />
+    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579981718607" />
     <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1579980452761">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -170,10 +178,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579973826394" />
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579981576317">
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579981721309">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579981576317" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579981721309" />
     <state x="495" y="222" key="git4idea.merge.GitPullDialog" timestamp="1579973318896">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
