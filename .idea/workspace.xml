@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f08893d-2ebb-459e-ac0d-9b7be2b40d1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579981481453</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Travis CI support">
+      <created>1579981574253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579981574253</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,13 +142,14 @@
     <MESSAGE value="Hello, world" />
     <MESSAGE value="Add Dockerfile" />
     <MESSAGE value="Add files missing from initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add files missing from initial commit" />
+    <MESSAGE value="Add Travis CI support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Travis CI support" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1579981480358">
+    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1579981573331">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579981480358" />
+    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579981573331" />
     <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1579980452761">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -162,10 +170,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579973826394" />
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579981485336">
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579981576317">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579981485336" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579981576317" />
     <state x="495" y="222" key="git4idea.merge.GitPullDialog" timestamp="1579973318896">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
